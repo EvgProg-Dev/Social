@@ -2,7 +2,11 @@
     "name": "it-camasutra2",
     "private": true,
     "version": "0.0.0",
+<<<<<<< HEAD
     "homepage": "/Social/",
+=======
+    "homepage": "https://evgprog-dev.github.io/Social",
+>>>>>>> origin/main
     "type": "module",
     "scripts": {
         "dev": "vite",
