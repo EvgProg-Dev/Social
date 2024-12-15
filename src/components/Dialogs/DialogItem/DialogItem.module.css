@@ -1,0 +1,20 @@
+
+.dialogs__item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background-color: rgb(73, 89, 255);
+    border-radius: 12px;
+    padding: 8px 12px;
+
+}
+.dialogs__item.active {
+    color: cornflowerblue;
+}
+
+.dialogs__item_img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+}

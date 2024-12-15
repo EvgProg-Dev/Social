@@ -1,0 +1,39 @@
+
+
+.profile__addpost {
+    border: 1px solid cornflowerblue;
+    border-radius: 8px;
+    padding: 12px 0;
+}
+.profile__title {
+    font-size: 36px;
+    font-weight: 800;
+    text-align: center;
+}
+.input__wrapper {
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+.input__wrapper input {
+
+    min-width: 300px;
+    background-color: transparent;
+    border: 1px solid royalblue;
+    padding: 12px 12px;
+    border-radius: 8px;
+}
+.input__button {
+    font-size: 14px;
+    padding: 10px 15px;
+    border: 1px solid royalblue;
+}
+
+.profile__posts_wrapper {
+
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}

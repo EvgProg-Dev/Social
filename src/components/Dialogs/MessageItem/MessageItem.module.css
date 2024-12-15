@@ -1,0 +1,7 @@
+.messages__item {
+
+    padding: 10px 12px;
+    border-radius: 8px;
+    background-color: rgb(73, 89, 255);
+    width: max-content;
+}

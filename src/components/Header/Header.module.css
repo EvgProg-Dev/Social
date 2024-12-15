@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    grid-area: header;
+    background-color: #1a1a1a;
+    border: 1px solid cornflowerblue;
+    padding: 10px 15px;
+    border-radius: 8px;
+
+}
+
+.logo__wrapper {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 24px;
+}
+.login__wrapper {
+    display: flex;
+    gap: 20px;
+}

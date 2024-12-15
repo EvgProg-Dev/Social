@@ -1,0 +1,45 @@
+.dialogs {
+    display: flex;
+    gap: 16px;
+}
+
+.dialogs__items {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    border: 1px solid cornflowerblue;
+    padding: 10px 20px;
+    border-radius: 8px;
+    width: 20%;
+}
+.messages__items_wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 80%;
+    border: 1px solid cornflowerblue;
+    padding: 10px 12px;
+    border-radius: 8px;
+}
+
+.messages__items {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 30px;
+}
+
+.sendMessage {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+}
+
+.sendMessage input {
+    min-width: 500px;
+    background-color: transparent;
+    border: 1px solid royalblue;
+    padding: 12px 12px;
+    border-radius: 8px;
+}

@@ -1,0 +1,28 @@
+.post {
+    border: 1px solid cornflowerblue;
+    padding: 10px 12px;
+    border-radius: 8px;
+}
+
+.post__info {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+.post__info img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.post__item {
+
+
+}
+
+.favorite__wrapper {
+    margin-top: 20px;
+    display: flex;
+    gap: 15px;
+}

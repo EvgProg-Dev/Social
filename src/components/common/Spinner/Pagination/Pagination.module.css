@@ -1,0 +1,14 @@
+.users__pagination {
+    margin: 30px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    align-items: center;
+}
+
+.users__pagination .active {
+    color: cornflowerblue;
+    background-color: white;
+}
+

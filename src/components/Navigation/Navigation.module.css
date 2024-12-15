@@ -1,0 +1,24 @@
+.navigation {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    border: 1px solid cornflowerblue;
+    grid-area: navigation;
+    background-color: #1a1a1a;
+
+    border-radius: 8px;
+}
+.navigation ul {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.item {
+    color: #fff;
+}
+
+.active {
+    color: cornflowerblue;
+}

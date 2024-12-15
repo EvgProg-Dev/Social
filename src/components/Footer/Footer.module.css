@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    grid-area: footer;
+    border: 1px solid cornflowerblue;
+    background-color: #1a1a1a;
+    padding: 10px 15px;
+    border-radius: 8px;
+}
+
+.logo__wrapper {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 24px;
+}
