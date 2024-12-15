@@ -2,7 +2,7 @@
     "name": "it-camasutra2",
     "private": true,
     "version": "0.0.0",
-    "homepage": "https://evgprog-dev.github.io/ReactSocial",
+    "homepage": "/Social/",
     "type": "module",
     "scripts": {
         "dev": "vite",
