@@ -1,0 +1,1 @@
+import{R as n,j as e,b as s,d as r}from"./index-DNSjJEnU.js";const i=t=>({isAuth:t.auth.isAuth}),u=t=>{class o extends n.Component{render(){return this.props.isAuth?e.jsx(t,{...this.props}):e.jsx(s,{to:"/login"})}}return r(i)(o)};export{u as w};
